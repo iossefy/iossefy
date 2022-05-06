@@ -41,18 +41,11 @@ Check out my website's [[https://youssefy.com/about/][about page]].
 [[https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white]]
 [[https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white]]
 
-
 ** You can find me on
 [[https://hackerone.com/m1cr0xf7_xf7][https://img.shields.io/badge/Hackerone-%23121011.svg?style=for-the-badge&logo=hackerone&logoColor=white]]
 [[https://bugcrowd.com/M1cR0xf7][https://img.shields.io/badge/Bugcrowd-%23F05033.svg?style=for-the-badge&logo=bugcrowd&logoColor=white]]
 [[https://www.linkedin.com/in/youssef-xf7][https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white]]
 [[https://github.com/m1cR0xf7/][https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white]]
 [[https://youssefy.com][https://img.shields.io/badge/youssefy.com-%2300ADD8.svg?style=for-the-badge&logoColor=white]]
-
-** Operating systems i have used
-[[https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=fff&style=for-the-badge]]
-[[https://img.shields.io/badge/Debian-D70A53.svg?style=for-the-badge&logo=debian&logoColor=white]]
-[[https://img.shields.io/badge/Kali-268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white]]
-[[https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white]]
 
 #+html: </div>
