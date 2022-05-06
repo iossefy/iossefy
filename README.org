@@ -1,0 +1,47 @@
+#+AUTHOR: Youssef Hesham <m1cr0xf7>
+
+
+#+BEGIN_CENTER
+
+*** Welcome to My profile!
+
+[[hello.svg]]
+
+#+END_CENTER
+-----
+
+#+BEGIN_CENTER
+* About Me
+  My name is youssef.
+  I'm currenly a college student.
+  I mastered the google art.
+  Check out my website's [[https://youssefy.com/about/][about page]].
+
+  i am interested in cybersecurity, operating systems and
+  gamedev. i like to participate in CTFs, events and i do some
+  opensource work when i have time.
+
+* Tech Stack
+ i used these technologies and i am comfortable with it.
+ i will keep expanding it as time passes :)
+
+[[Python][https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54]]
+[[C][https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white]]
+[[LaTeX][https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white]]
+[[Rust][https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white]]
+[[Shell Script][https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white]]
+[[Git][https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white]]
+[[Go][https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white]]
+
+
+** Operating systems i have used.
+[[Arch][https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge]]
+[[Debian][https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white]]
+[[Kali][https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white]]
+
+#+END_CENTER
+
+
+visit my website [[https://youssefy.com][youssefy.com]].
+
+[[Youssefy.com][https://img.shields.io/badge/youssefy.com-%2300ADD8.svg?style=for-the-badge&logoColor=white]]
