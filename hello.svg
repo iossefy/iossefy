@@ -1,30 +1,30 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 400 50'
+    viewBox='0 0 320 50'
     style='background-color: #756DFF00;'
-    width='400px' height='50px'>
+    width='320px' height='50px'>
 
     
     <path id='path0'>
         <animate id='d0' attributeName='d' begin='0s;d2.end' dur='5000ms'
-            values='m0,25 h0 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;1' />
+            values='m0,25 h0 ; m0,25 h320 ; m0,25 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'>
+    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='27'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
-            My name is youssef
+            My name is Youssef
         </textPath>
     </text>
 
     <path id='path1'>
         <animate id='d1' attributeName='d' begin='d0.end' dur='5000ms'
-            values='m0,25 h0 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;1' />
+            values='m0,25 h0 ; m0,25 h320 ; m0,25 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'>
+    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='27'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
             i like to code
         </textPath>
@@ -32,13 +32,13 @@
 
     <path id='path2'>
         <animate id='d2' attributeName='d' begin='d1.end' dur='5000ms'
-            values='m0,25 h0 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;1' />
+            values='m0,25 h0 ; m0,25 h320 ; m0,25 h0' keyTimes='0;0.8;1' />
     </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'>
+    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='27'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
-            Welcome to my profile
+            have a nice day.
         </textPath>
     </text>
 
