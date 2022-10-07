@@ -1,7 +1,7 @@
 #+AUTHOR: Youssef Hesham <m1cr0xf7>
 
 #+html: <div align="center">
-* Welcome to my profile!
+* Youssef Hesham
 [[hello.svg]]
 #+html: </div>
 
