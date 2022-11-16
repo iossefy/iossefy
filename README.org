@@ -1,8 +1,13 @@
 #+AUTHOR: Youssef Hesham <m1cr0xf7>
+#+options: toc:nil num:nil
+#+TITLE: Youssef Hesham
+
+
 
 #+html: <div align="center">
-* Youssef Hesham
-[[hello.svg]]
+
+* #!
+[[./hello.svg]]
 #+html: </div>
 
 #+html: <div align="center">
@@ -17,9 +22,6 @@ I mastered the google art :fire:.
 
 
 Check out my website's [[https://youssefy.com/about/][about page]].
-
-I am interested in Cybersecurity, Artificial Intellegence, Operating
-Systems, Game Development and Computer Graphics.
 
 i like to participate in CTFs, conferences and events. I would be
 happy if you invite me.
