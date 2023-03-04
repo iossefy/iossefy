@@ -9,36 +9,31 @@
 #+html: <div align="center">
 ** About Me
 
-
 My name is youssef :smile:.
 
-I'm currently a college student :computer:.
+I'm currently a computer science student :computer:.
 
 I mastered the google art :fire:.
 
-
 Check out my website's [[https://youssefy.com/about/][about page]].
-
-i like to participate in CTFs, conferences and events. I would be
-happy if you invite me.
 
 #+html: </div>
 
 #+html: <div align="center">
 
-** Tech Stack
-i used these technologies and i am comfortable with it.
+# ** Tech Stack
+# i used these technologies and i am comfortable with it.
 
-i will keep expanding it as time passes :)
+# i will keep expanding it as time passes :)
 
-[[https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54]]
-[[https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white]]
-[[https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white]]
-[[https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white]]
-[[https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white]]
-[[https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white]]
-[[https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white]]
-[[https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white]]
+# [[https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54]]
+# [[https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white]]
+# [[https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white]]
+# [[https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white]]
+# [[https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white]]
+# [[https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white]]
+# [[https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white]]
+# [[https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white]]
 
 #+html: </div>
 
