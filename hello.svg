@@ -18,18 +18,6 @@
         </textPath>
     </text>
 
-    <path id='path1'>
-        <animate id='d1' attributeName='d' begin='d0.end' dur='5000ms'
-            values='m0,25 h0 ; m0,25 h320 ; m0,25 h0' keyTimes='0;0.8;1' />
-    </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='27'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path1'>
-            i like to code
-        </textPath>
-    </text>
-
     <path id='path2'>
         <animate id='d2' attributeName='d' begin='d1.end' dur='5000ms'
             values='m0,25 h0 ; m0,25 h320 ; m0,25 h0' keyTimes='0;0.8;1' />
