@@ -40,5 +40,5 @@ Check out my website's [[https://youssefy.com/about/][about page]].
 ** You can find me on
 - *Blog:* [[https://youssefy.com]]
 - *LinkedIn:* [[https://www.linkedin.com/in/youssef-xf7]]
-- *Hackerone:* [[https://hackerone.com/m1xf7]]
-- *Github:* [[https://github.com/m1cR0xf7/]]
+- *Hackerone:* [[https://hackerone.com/iossefy]]
+- *Github:* [[https://github.com/iossefy/]]
