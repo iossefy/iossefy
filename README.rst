@@ -24,7 +24,3 @@
 I am a vulnerability researcher, reverse engineer, and a CTF player.
 
 Blog: https://iossefy.github.io
-
-.. rubric:: **Stats**
-
-.. image:: https://github-readme-stats.vercel.app/api?username=iossefy&theme=dark&show_icons=true&hide_border=false&count_private=true
